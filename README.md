@@ -1,5 +1,3 @@
-# m2_enedis
-
 # Analyse des Consommations Électriques des Logements en Fonction du DPE
 
 Ce projet consiste à traiter et analyser les données des logements, afin d'évaluer l'impact de la classe de **Diagnostic de Performance Énergétique (DPE)** sur les consommations électriques des logements.
